@@ -18,4 +18,4 @@ This is an exploratory data analysis of death and its causes.
 #### Presentation can be found at https://lookerstudio.google.com/reporting/0ffdc01c-bc15-4084-ad0a-82fd7c230648 
 
 
-<img width="685" alt="Screenshot 2023-03-11 at 17 31 23" src="https://user-images.githubusercontent.com/63885338/224496146-6664e37d-a21b-4ad8-bee2-f5989fb17235.png">
+<img width="1204" alt="Screenshot 2023-05-10 at 06 22 32" src="https://github.com/Odomero/Death_Analysis/assets/63885338/bf0224e5-c37f-43fc-97d6-ac555602484d">
